@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c77adff25117ca4b99488b746356b3c, type: 3}
+  m_Name: Super Potion
+  m_EditorClassIdentifier: 
+  potionEffects:
+  - {fileID: 11400000, guid: 203f29c2e90bbe541ab550f1130d0569, type: 2}
+  - {fileID: 11400000, guid: 094196cf3cd1c2a4686ac8212285c3b1, type: 2}
+  - {fileID: 11400000, guid: 5e74431791da60347a4e73a71f1b8b5d, type: 2}
+  - {fileID: 11400000, guid: 7d26ca23a6e0cae419ca45712f180aff, type: 2}
+  effectTime: 5
